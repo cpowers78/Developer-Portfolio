@@ -1,0 +1,9 @@
+White: #fff9f9
+Orange: #ff9f78
+Cream: #fff6e1
+Light Pink: #f1e1dd
+Brown: #d79d86
+Light Blue: #bfcdcd
+Blue Gray: #8497a4
+Sea Green: #628181
+Navy Blue: #2c435c

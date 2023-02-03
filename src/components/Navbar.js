@@ -18,7 +18,7 @@ export default function Navbar() {
             Skills
           </a>
         </nav>
-        <a style={{color: "#fff9f9"}}
+        <a style={{color: "#fff9f9", backgroundColor: "#2c435c"}}
           href="#contact"
           className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
           Contact Me

@@ -9,13 +9,13 @@ export default function Projects() {
         <div className="flex flex-col w-full mb-20">
           <CodeIcon style={{color: "#fff9f9"}} className="mx-auto inline-block w-10 mb-4" />
           <h1 style={{color: "#fff9f9"}} className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
-            Apps I've Built
+            Projects
           </h1>
-          <p style={{color: "#fff6e1"}} className="lg:w-2/3 mx-auto leading-relaxed text-base">
+          {/* <p style={{color: "#fff6e1"}} className="lg:w-2/3 mx-auto leading-relaxed text-base">
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
             facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
             fuga dolore.
-          </p>
+          </p> */}
         </div>
         <div className="flex flex-wrap -m-4">
           {projects.map((project) => (
@@ -26,8 +26,9 @@ export default function Projects() {
               <div className="flex relative">
                 <img
                   alt="gallery"
-                  className="absolute inset-0 w-full h-full object-cover object-center"
+                  className="absolute inset-0 object-position-top w-full h-full object-cover "
                   src={project.image}
+                  style={{ objectPosition: "top" }}
                 />
                 <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100">
                   <h2 style={{color: "#ff9f78"}} className="tracking-widest text-sm title-font font-medium mb-1">

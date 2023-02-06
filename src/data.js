@@ -1,54 +1,54 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Hiking App",
+    subtitle: "React and Material UI",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "Utilized Google Maps API to display location markers for hiking spots throughout the world, implementing user input to customize hiking destinations.",
+      image: "./Proj1.png",
+    link: "https://github.com/cpowers78/Hiking-App",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Notes App",
+    subtitle: "React hooks, Material UI",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "A fully-functional note-taking app using React to allow users to create, read, and delete notes with a title, content, and optional image.",
+    image: "./Proj2.png",
+    link: "https://github.com/cpowers78/Notes-App",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Google Sheets Form",
+    subtitle: "React, Semantic UI, Axios",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "Transformed Google Sheets into a REST API allowing for dynamic data management and retrieval for a React application.",
+    image: "./Proj3.png",
+    link: "https://github.com/cpowers78/Googlesheets-with-React",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "To Do List",
+    subtitle: "React Hooks and CSS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "To Do List Application that allows you to delete note items by click on them, or clearing all notes by clicking the 'clear' button.",
+    image: "./Proj4.png",
+    link: "https://github.com/cpowers78/To-Do-List-with-React",
   },
+  {
+    title: "Pong Game",
+    subtitle: "Python and OOP",
+    description:
+      "A clone of the game Pong using OOP in Python Turtle Libraries.",
+    image: "./Proj5.png",
+    link: "https://github.com/cpowers78/Pong-Game",
+  },
+  {
+    title: "Crossy Road",
+    subtitle: "Python and OOP",
+    description:
+      "A clone of the popular game Crossy Road using OOP in Python and Turtle Libraries.",
+    image: "./Proj6.png",
+    link: "https://github.com/cpowers78/Crossy-Road-Turtle-Game",
+  }
 ];
 
-export const testimonials = [
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
-  },
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
-  },
-];
 
 export const skills = [
   "JavaScript",

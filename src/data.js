@@ -5,7 +5,7 @@ export const projects = [
     description:
       "Utilized Google Maps API to display location markers for hiking spots throughout the world, implementing user input to customize hiking destinations.",
       image: "./Proj1.png",
-    link: "https://github.com/cpowers78/Hiking-App",
+    link: "https://loquacious-kleicha-146253.netlify.app/",
   },
   {
     title: "Notes App",

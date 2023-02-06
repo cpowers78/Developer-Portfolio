@@ -46,7 +46,7 @@ export default function Contact() {
               </h2>
               <h2 style={{color:"#fff9f9"}}  className="leading-relaxed">631-624-6081</h2>
           <p style={{color:"#fff9f9"}} className="leading-relaxed mb-5 mt-5">
-            Please fill out this form if you have any questions for me! Or even just comments on my portfolio, I would love to hear any feedback.
+            Fill out this form or feel free to contact me directly at my email and/or phone number listed above!
           </p>
           <div className="relative mb-4">
             <label style={{color:"#fff6e1"}} htmlFor="name" className="leading-7 text-sm text-gray-400">

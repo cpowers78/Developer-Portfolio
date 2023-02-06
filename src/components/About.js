@@ -7,22 +7,21 @@ export default function About() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 style={{color: "#2c435c"}} className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Caterina Powers
-            <br className="hidden lg:inline-block" />Software Developer
+            <br className="hidden lg:inline-block" /> Software Developer
           </h1>
           <p style={{color: "#628181"}} className="mb-8 leading-relaxed">
-            I am passionate about technology and how it can help a positive difference in the world. I graduated with a Bachelors Degree in Mathematics in May of 2022. After graduating,
-            I worked in real estate for 6 months before deciding to pursue my passion. Continue on to see some of the projects I've been working on.
+            I am a Junior Software Developer who is passionate about creating technology to help make the world a better place. I have a Bachelors Degree in Mathematics and experience in Real Estate Sales. Continue on to check out some of the projects I've been working on!
           </p>
           <div className="flex justify-center">
-            <a style={{backgroundColor: "#ebb764", color:"#fff9f9"}}
+            <a style={{backgroundColor: "#ff9f78", color:"#fff9f9"}}
               href="#contact"
               className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
               Contact Me
             </a>
-            <a style={{backgroundColor: "#ff9f78", color:"#fff9f9"}}
+            <a style={{backgroundColor: "#8497a4", color:"#fff9f9"}}
               href="#projects"
               className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
-              See My Past Work
+              See My Work
             </a>
           </div>
         </div>

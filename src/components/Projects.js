@@ -11,11 +11,9 @@ export default function Projects() {
           <h1 style={{color: "#fff9f9"}} className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
             Projects
           </h1>
-          {/* <p style={{color: "#fff6e1"}} className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-            facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-            fuga dolore.
-          </p> */}
+          <p style={{color: "#fff6e1"}} className="lg:w-2/3 mx-auto leading-relaxed text-base">
+            Click on the project to be taken to the github repository or live version (if available)!
+          </p>
         </div>
         <div className="flex flex-wrap -m-4">
           {projects.map((project) => (

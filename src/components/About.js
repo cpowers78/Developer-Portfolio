@@ -7,7 +7,7 @@ export default function About() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 style={{color: "#2c435c"}} className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Caterina Powers
-            <br className="hidden lg:inline-block hidden sm:inline-block" /> Software Developer
+            <br className=" lg:inline-block sm:inline-block" /> Software Developer
           </h1>
           <p style={{color: "#628181"}} className="mb-8 leading-relaxed">
             I am a Junior Software Developer who is passionate about creating technology to help make the world a better place. I have a Bachelors Degree in Mathematics and experience in Real Estate Sales. Continue on to check out some of the projects I've been working on!

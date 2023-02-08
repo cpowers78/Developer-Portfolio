@@ -17,6 +17,12 @@ export default function Navbar() {
           <a style={{color: "#2c435c"}} href="#skills" className="mr-5 hover:text-white">
             Skills
           </a>
+          <a style={{color: "#2c435c"}} href="https://github.com/cpowers78" className="mr-5 hover:text-white">
+            GitHub
+          </a>
+          <a style={{color: "#2c435c"}} href="https://www.linkedin.com/in/caterina-powers/" className="mr-5 hover:text-white">
+            LinkedIn
+          </a>
         </nav>
         <a style={{color: "#fff9f9", backgroundColor: "#2c435c"}}
           href="#contact"

@@ -10,7 +10,7 @@ export default function About() {
             <br className="block sm:inline" /> Software Developer
           </h1>
           <p style={{color: "#628181"}} className="mb-8 leading-relaxed">
-            I am a Junior Software Developer who is passionate about creating technology to help make the world a better place. I have a Bachelors Degree in Mathematics and experience in Real Estate Sales. Continue on to check out some of the projects I've been working on!
+            I am a Junior Software Developer who is passionate about music, nature, and coding! Continue on to see some of the projects I've been working on.
           </p>
           <div className="flex justify-center">
             <a style={{backgroundColor: "#ff9f78", color:"#fff9f9"}}

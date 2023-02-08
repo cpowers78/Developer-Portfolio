@@ -8,7 +8,7 @@ Simply visit www.caterinapowers.com to view the website.
 
 ---
 
-## Technologies used
+## Technologies Used
 
 React, Tailwind CSS, Netlify
 
